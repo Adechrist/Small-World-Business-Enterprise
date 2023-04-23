@@ -1,1 +1,1 @@
-# Adetech
+# Small World Business Enterprise project 
